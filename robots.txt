@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+Disallow: /includes/
+Disallow: /scripts/
+Sitemap: https://www.soundblast.co.in/sitemap.xml

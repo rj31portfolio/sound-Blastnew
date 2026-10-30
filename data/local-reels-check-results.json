@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Reel 1",
+    "file": "http://127.0.0.1:8088/images/reels/1.mp4",
+    "playing": true,
+    "time": 0.00571,
+    "muted": true,
+    "width": 720,
+    "height": 1280,
+    "error": null,
+    "activeVideos": 1
+  },
+  {
+    "name": "Leave pauses 1",
+    "paused": true
+  },
+  {
+    "name": "Reel 2",
+    "file": "http://127.0.0.1:8088/images/reels/2.mp4",
+    "playing": true,
+    "time": 0.01762,
+    "muted": true,
+    "width": 720,
+    "height": 1280,
+    "error": null,
+    "activeVideos": 1
+  },
+  {
+    "name": "Leave pauses 2",
+    "paused": true
+  },
+  {
+    "name": "Reel 3",
+    "file": "http://127.0.0.1:8088/images/reels/3.mp4",
+    "playing": true,
+    "time": 0.064568,
+    "muted": true,
+    "width": 720,
+    "height": 1280,
+    "error": null,
+    "activeVideos": 1
+  },
+  {
+    "name": "Leave pauses 3",
+    "paused": true
+  },
+  {
+    "name": "Reel 4",
+    "file": "http://127.0.0.1:8088/images/reels/4.mp4",
+    "playing": true,
+    "time": 0.03181,
+    "muted": true,
+    "width": 720,
+    "height": 1280,
+    "error": null,
+    "activeVideos": 1
+  },
+  {
+    "name": "Leave pauses 4",
+    "paused": true
+  },
+  {
+    "name": "Touch control",
+    "playing": true,
+    "pressed": "true",
+    "width": 390,
+    "scroll": 390
+  },
+  {
+    "name": "Touch pause",
+    "paused": true
+  }
+]

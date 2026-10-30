@@ -1,0 +1,1 @@
+<?php $categorySlug='amplifiers'; require __DIR__.'/../../includes/category-page.php';

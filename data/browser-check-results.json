@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Home desktop",
+    "width": 1440,
+    "scroll": 1425,
+    "missing": [],
+    "products": 9,
+    "regions": 36
+  },
+  {
+    "name": "North India selection",
+    "label": "NORTH INDIA SERVICE",
+    "selected": "north",
+    "highlighted": 9
+  },
+  {
+    "name": "Map keyboard",
+    "selected": "south"
+  },
+  {
+    "name": "Footer contacts",
+    "phone": "+91 93183 21456",
+    "email": "kaneenterprises1979@gmail.com",
+    "address": "C-105, Gali No. 07Harit Vihar, BurariDelhi – 110084",
+    "instagram": true,
+    "whatsapp": true
+  },
+  {
+    "name": "Responsive 390",
+    "width": 390,
+    "scroll": 390
+  },
+  {
+    "name": "Responsive 768",
+    "width": 768,
+    "scroll": 753
+  },
+  {
+    "name": "Responsive 1024",
+    "width": 1024,
+    "scroll": 1009
+  },
+  {
+    "name": "Enquiry preparation",
+    "visible": true,
+    "url": "https://wa.me/919318321456?text=Hello%20Sound%20Blast%2C%0A%0AMy%20name%20is%20QA%20Visitor.%0AEnquiry%3A%20Product%20information%0AProduct%20%2F%20category%3A%20SB-M300S%0A%0APlease%20share%20product%20details.",
+    "organization": "Organization"
+  }
+]

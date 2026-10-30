@@ -1,0 +1,8 @@
+﻿hero.png
+Built-in image_gen. Premium automotive website hero photograph, wide landscape. Glossy black luxury SUV, front three-quarter view on a scenic mountain road at golden hour. Car on right two thirds; dark negative space on left for HTML copy. Charcoal, steel grey, warm gold light. Photorealistic automotive advertising. No words, logos, badges or watermarks.
+
+interior.png
+Built-in image_gen. Photorealistic luxury black car interior, steering wheel left, centre console, premium black leather seats, yellow ambient light trim, brushed metal details. Moody charcoal and warm yellow. Cinematic professional automotive photography. No writing, logos or watermarks.
+
+logo-transparent.png
+Built-in image_gen edit of images/logo.png. Background removal only: remove the solid black background to genuine alpha transparency; retain yellow S, black ampersand, white B, SOUND in white and BLAST in yellow. Preserve logo proportions and typography. No glow, shadows, lighting, gradients or redesign. Selected second output after reviewing the first.

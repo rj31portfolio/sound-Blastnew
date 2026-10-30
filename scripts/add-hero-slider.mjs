@@ -1,0 +1,1 @@
+import fs from 'node:fs';const f='index.php';let t=fs.readFileSync(f,'utf8');const start=t.indexOf('<main id="main"><section class="hero">'),end=t.indexOf('<div class="sound-marquee"',start);if(start<0||end<0)throw Error('Hero not found');t=t.slice(0,start)+`<main id="main"><?php require __DIR__.'/includes/home-hero.php'; ?>\n`+t.slice(end);fs.writeFileSync(f,t);

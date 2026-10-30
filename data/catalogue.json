@@ -1,0 +1,2934 @@
+{
+  "categories": [
+    {
+      "slug": "amplifiers",
+      "name": "Amplifiers",
+      "description": "Explore the Sound Blast amplifiers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "mid-range-speakers",
+      "name": "Mid Range Speakers",
+      "description": "Explore the Sound Blast mid range speakers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "android-amplifiers",
+      "name": "Android Amplifiers",
+      "description": "Explore the Sound Blast android amplifiers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "led-headlights",
+      "name": "LED Headlights",
+      "description": "Explore the Sound Blast led headlights collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "projector-lamps",
+      "name": "Projector Lamps",
+      "description": "Explore the Sound Blast projector lamps collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "car-cameras",
+      "name": "Car Cameras",
+      "description": "Explore the Sound Blast car cameras collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "amp-wiring-kits",
+      "name": "Amp Wiring Kits",
+      "description": "Explore the Sound Blast amp wiring kits collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "dsp",
+      "name": "DSP",
+      "description": "Explore the Sound Blast dsp collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "android-players",
+      "name": "Android Players",
+      "description": "Explore the Sound Blast android players collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "fm-usb-players",
+      "name": "FM USB Players",
+      "description": "Explore the Sound Blast fm usb players collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "car-speakers",
+      "name": "Car Speakers",
+      "description": "Explore the Sound Blast car speakers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "component-speakers",
+      "name": "Component Speakers",
+      "description": "Explore the Sound Blast component speakers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "bass-tubes",
+      "name": "Bass Tubes",
+      "description": "Explore the Sound Blast bass tubes collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "active-subwoofers",
+      "name": "Active Dual Subwoofers",
+      "description": "Explore the Sound Blast active dual subwoofers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "underseat",
+      "name": "Underseat Subwoofers",
+      "description": "Explore the Sound Blast underseat subwoofers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "damping-sheets",
+      "name": "Damping Sheets",
+      "description": "Explore the Sound Blast damping sheets collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "bullet-tweeters",
+      "name": "Car Bullet Tweeters",
+      "description": "Explore the Sound Blast car bullet tweeters collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "hi-low-converters",
+      "name": "Hi Low Converters",
+      "description": "Explore the Sound Blast hi low converters collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "dashcams",
+      "name": "Dashcams",
+      "description": "Explore the Sound Blast dashcams collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "car-chargers",
+      "name": "Car Chargers",
+      "description": "Explore the Sound Blast car chargers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "subwoofers",
+      "name": "Subwoofers",
+      "description": "Explore the Sound Blast subwoofers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    },
+    {
+      "slug": "full-range-speakers",
+      "name": "Full Range Speakers",
+      "description": "Explore the Sound Blast full range speakers collection. Discover models, features and technical specifications from our automotive accessories catalogue."
+    }
+  ],
+  "products": [
+    {
+      "category": "amplifiers",
+      "model": "HE-250.4D",
+      "slug": "he-250-4d",
+      "page": 10,
+      "cataloguePage": 7,
+      "box": [
+        35,
+        845,
+        1100,
+        1480
+      ],
+      "specs": {
+        "Series": "Hercules",
+        "Channels": "4",
+        "Output at 4 Ω": "250 W RMS × 4",
+        "Output at 2 Ω": "350 W RMS × 4",
+        "Bridged at 4 Ω": "700 W RMS × 2",
+        "THD": "<0.3%",
+        "Frequency response": "10 Hz–20 kHz",
+        "Signal to noise ratio": ">90 dB",
+        "Sensitivity": "250 mV–8 V",
+        "Fuse": "35 A × 3",
+        "Dimensions": "290 × 174 × 48 mm"
+      },
+      "features": [
+        "High efficiency",
+        "Premium high end amplifier"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/he-250-4d.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "HE-200.6D",
+      "slug": "he-200-6d",
+      "page": 11,
+      "cataloguePage": 8,
+      "box": [
+        20,
+        815,
+        1105,
+        1465
+      ],
+      "specs": {
+        "Series": "Hercules",
+        "Channels": "6",
+        "Output at 4 Ω": "200 W RMS × 6",
+        "Output at 2 Ω": "280 W RMS × 6",
+        "Bridged at 4 Ω": "560 W RMS × 3",
+        "THD": "<0.3%",
+        "Frequency response": "10 Hz–20 kHz",
+        "Signal to noise ratio": ">90 dB",
+        "Sensitivity": "250 mV–8 V",
+        "Fuse": "45 A × 4",
+        "Dimensions": "320 × 174 × 48 mm"
+      },
+      "features": [
+        "High efficiency"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/he-200-6d.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-250.4D",
+      "slug": "sb-250-4d",
+      "page": 12,
+      "cataloguePage": 9,
+      "box": [
+        35,
+        947,
+        875,
+        1445
+      ],
+      "specs": {
+        "Channels": "4",
+        "RMS output": "250 W × 4",
+        "Class": "D",
+        "PCB": "Four layer",
+        "IC": "USA IR2092"
+      },
+      "features": [
+        "High efficiency"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-250-4d.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-150.4",
+      "slug": "sb-150-4",
+      "page": 13,
+      "cataloguePage": 10,
+      "box": [
+        80,
+        920,
+        900,
+        1410
+      ],
+      "specs": {
+        "Channels": "4",
+        "RMS output": "150 W × 4",
+        "Series": "V12"
+      },
+      "features": [
+        "High efficiency"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-150-4.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-802",
+      "slug": "sb-802",
+      "page": 14,
+      "cataloguePage": 11,
+      "box": [
+        120,
+        355,
+        440,
+        620
+      ],
+      "specs": {
+        "Channels": "2",
+        "Real output": "60 W × 2",
+        "LPF ranges as printed": "50–250 Hz; 120 Hz–3 kHz"
+      },
+      "features": [
+        "American ONSEMI power MOSFET",
+        "IR3205 transistor",
+        "Full range HPF/LPF",
+        "Bridgeable for subwoofer",
+        "Treble boost",
+        "Bass boost",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-802.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "ST-802",
+      "slug": "st-802",
+      "page": 14,
+      "cataloguePage": 11,
+      "box": [
+        530,
+        355,
+        855,
+        585
+      ],
+      "specs": {
+        "Channels": "2",
+        "Output at 4 Ω": "50 W RMS × 2",
+        "Output at 2 Ω": "80 W RMS × 2",
+        "Bridged at 4 Ω": "160 W RMS × 1",
+        "Dimensions": "240 × 220 × 55 mm",
+        "Badge": "60 W × 2"
+      },
+      "features": [
+        "Thermal, short circuit and overload protection",
+        "High efficiency MOSFET power supply",
+        "Power and protection LED indicators",
+        "Variable low pass and high pass crossover",
+        "Heavy heat sink for heat dissipation",
+        "Variable bass booster"
+      ],
+      "note": "Badge states 60 W × 2; output table states 50 W RMS × 2 at 4 Ω.",
+      "image": "images/products/amplifiers/st-802.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-902G",
+      "slug": "sb-902g",
+      "page": 14,
+      "cataloguePage": 11,
+      "box": [
+        935,
+        370,
+        1250,
+        570
+      ],
+      "specs": {
+        "Channels": "2",
+        "Real output": "80 W × 2",
+        "LPF as printed": "50 Hz–4 kHz",
+        "Remote cable": "5 m"
+      },
+      "features": [
+        "Japanese KEC power MOSFET",
+        "American IR transistor",
+        "High level signal input",
+        "Full range HPF/LPF",
+        "Bridgeable",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-902g.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-6050",
+      "slug": "sb-6050",
+      "page": 14,
+      "cataloguePage": 11,
+      "box": [
+        130,
+        1205,
+        450,
+        1420
+      ],
+      "specs": {
+        "Channels": "4",
+        "Output at 4 Ω": "60 W RMS × 4",
+        "Output at 2 Ω": "80 W RMS × 4",
+        "Bridged at 4 Ω": "160 W RMS × 2",
+        "Dimensions": "300 × 214 × 56 mm"
+      },
+      "features": [
+        "Bridgeable",
+        "Thermal, short circuit and overload protection",
+        "High efficiency MOSFET power supply",
+        "Power and protection LED indicators",
+        "Variable low pass and high pass crossover",
+        "Heavy heat sink for heat dissipation",
+        "Bass booster"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-6050.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-650BR",
+      "slug": "sb-650br",
+      "page": 14,
+      "cataloguePage": 11,
+      "box": [
+        520,
+        1220,
+        855,
+        1430
+      ],
+      "specs": {
+        "Channels": "4",
+        "Output at 4 Ω": "60 W RMS × 4",
+        "Output at 2 Ω": "80 W RMS × 4",
+        "Bridged at 4 Ω": "160 W RMS × 2",
+        "Dimensions": "300 × 214 × 56 mm"
+      },
+      "features": [
+        "Bridgeable",
+        "Thermal, short circuit and overload protection",
+        "High efficiency MOSFET power supply",
+        "Power and protection LED indicators",
+        "Variable low pass and high pass crossover",
+        "Heavy heat sink for heat dissipation",
+        "Bass booster"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-650br.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "ST-906",
+      "slug": "st-906",
+      "page": 14,
+      "cataloguePage": 11,
+      "box": [
+        940,
+        1210,
+        1220,
+        1390
+      ],
+      "specs": {
+        "Channels": "4",
+        "Real input power": "80 W × 4",
+        "LPF": "32–300 Hz",
+        "HPF": "32 Hz–2 kHz"
+      },
+      "features": [
+        "ON MOSFET NJW0302A / 0281A",
+        "IR3205 transistor",
+        "Japanese JRC operation IC",
+        "Double HPF/LPF",
+        "Double bass boost",
+        "Bridgeable",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/st-906.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-806R",
+      "slug": "sb-806r",
+      "page": 15,
+      "cataloguePage": 12,
+      "box": [
+        170,
+        340,
+        540,
+        575
+      ],
+      "specs": {
+        "Channels": "4",
+        "Real power": "80 W × 4",
+        "LPF": "32–300 Hz",
+        "HPF": "32 Hz–2 kHz"
+      },
+      "features": [
+        "American ON power MOSFET NJW0302A / 0281A",
+        "American IR transistor IR3205",
+        "Japanese JRC5532 operation IC",
+        "Japanese ELNA audio capacitors",
+        "Two audio input groups, one audio output group",
+        "Double power supply transformers",
+        "Double HPF/LPF adjustment",
+        "Double treble boost",
+        "Heavy heat sink",
+        "Double bass boost",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-806r.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-806B",
+      "slug": "sb-806b",
+      "page": 15,
+      "cataloguePage": 12,
+      "box": [
+        770,
+        290,
+        1125,
+        505
+      ],
+      "specs": {
+        "Channels": "4",
+        "Real power": "80 W × 4",
+        "LPF": "32–300 Hz",
+        "HPF": "32 Hz–2 kHz"
+      },
+      "features": [
+        "Sanken SK A1695/C4468 MOSFET",
+        "IR3205 transistor",
+        "JRC5532 operation IC",
+        "Two audio input groups, one output group",
+        "Double transformers",
+        "Double HPF/LPF",
+        "Double treble boost",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-806b.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-806G",
+      "slug": "sb-806g",
+      "page": 15,
+      "cataloguePage": 12,
+      "box": [
+        165,
+        1170,
+        520,
+        1390
+      ],
+      "specs": {
+        "Channels": "4",
+        "Real power": "80 W × 4",
+        "LPF": "32–300 Hz",
+        "HPF": "32 Hz–2 kHz"
+      },
+      "features": [
+        "American ON power MOSFET NJW0302A / 0281A",
+        "American IR transistor IR3205",
+        "Japanese JRC5532 operation IC",
+        "Japanese ELNA audio capacitors",
+        "Two audio input groups, one audio output group",
+        "Double power supply transformers",
+        "Double HPF/LPF adjustment",
+        "Double treble boost",
+        "Heavy heat sink",
+        "Double bass boost",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-806g.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-1004x4CH",
+      "slug": "sb-1004x4ch",
+      "page": 15,
+      "cataloguePage": 12,
+      "box": [
+        730,
+        1155,
+        1075,
+        1375
+      ],
+      "specs": {
+        "Channels": "4",
+        "Real power": "100 W × 4",
+        "LPF": "32–300 Hz",
+        "HPF": "32 Hz–2 kHz"
+      },
+      "features": [
+        "American ON power MOSFET NJW0302A / 0281A",
+        "American IR transistor IR3205",
+        "Japanese JRC5532 operation IC",
+        "Japanese ELNA audio capacitors",
+        "Two audio input groups, one audio output group",
+        "Double power supply transformers",
+        "Double HPF/LPF adjustment",
+        "Double treble boost",
+        "Heavy heat sink",
+        "Double bass boost",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-1004x4ch.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "1000.1D",
+      "slug": "1000-1d",
+      "page": 16,
+      "cataloguePage": 13,
+      "box": [
+        130,
+        350,
+        515,
+        630
+      ],
+      "specs": {
+        "Channels": "Mono",
+        "Real input power": "1000 W × 1"
+      },
+      "features": [
+        "Treble and bass booster",
+        "2 Ω stable / tri mode",
+        "Thermal, short circuit and overload protection",
+        "High efficiency MOSFET power supply",
+        "Power and protection LED indicators",
+        "Variable low pass and high pass crossover",
+        "Heavy heat sink for heat dissipation"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/1000-1d.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "1500.1D",
+      "slug": "1500-1d",
+      "page": 16,
+      "cataloguePage": 13,
+      "box": [
+        785,
+        335,
+        1225,
+        640
+      ],
+      "specs": {
+        "Channels": "Mono",
+        "Real power": "1500 W × 1"
+      },
+      "features": [
+        "American IR transistor",
+        "Korean electronic circuit design",
+        "LPF: 40–180 Hz",
+        "Subsonic: 0–50 Hz",
+        "Bass boost frequency: 30–80 Hz",
+        "Bass boost: 0–12 dB",
+        "Remote controller",
+        "Heavy heat sink",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/1500-1d.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-2000x1CH",
+      "slug": "sb-2000x1ch",
+      "page": 16,
+      "cataloguePage": 13,
+      "box": [
+        105,
+        1110,
+        565,
+        1330
+      ],
+      "specs": {
+        "Channels": "Mono",
+        "Real power": "2000 W × 1"
+      },
+      "features": [
+        "American IR transistor",
+        "Korean electronic circuit design",
+        "LPF: 40–180 Hz",
+        "Subsonic: 0–50 Hz",
+        "Bass boost frequency: 30–80 Hz",
+        "Bass boost: 0–12 dB",
+        "Remote controller",
+        "Heavy heat sink",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-2000x1ch.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-3500.1D",
+      "slug": "sb-3500-1d",
+      "page": 16,
+      "cataloguePage": 13,
+      "box": [
+        775,
+        1120,
+        1215,
+        1375
+      ],
+      "specs": {
+        "Channels": "Mono",
+        "Real power": "3500 W × 1"
+      },
+      "features": [
+        "American IR transistor",
+        "Korean electronic circuit design",
+        "LPF: 40–180 Hz",
+        "Subsonic: 0–50 Hz",
+        "Bass boost frequency: 30–80 Hz",
+        "Bass boost: 0–12 dB",
+        "Remote controller",
+        "Heavy heat sink",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-3500-1d.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-3000.1D",
+      "slug": "sb-3000-1d",
+      "page": 17,
+      "cataloguePage": 14,
+      "box": [
+        325,
+        310,
+        965,
+        640
+      ],
+      "specs": {
+        "Channels": "Mono",
+        "Real output": "3000 W × 1"
+      },
+      "features": [
+        "Brazilian electronic circuit design",
+        "American CPU IC for increased bass",
+        "High efficiency square transformer",
+        "American IR transistor",
+        "LPF: 50–200 Hz",
+        "Subsonic: 10–80 Hz",
+        "Bass boost frequency: 30–70 Hz",
+        "Bass boost: 0–12 dB",
+        "Remote controller",
+        "Heavy heat sink",
+        "Short circuit protection"
+      ],
+      "note": "The catalogue uses one shared photograph for these three variants.",
+      "image": "images/products/amplifiers/sb-3000-1d.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-5000.1D",
+      "slug": "sb-5000-1d",
+      "page": 17,
+      "cataloguePage": 14,
+      "box": [
+        325,
+        310,
+        965,
+        640
+      ],
+      "specs": {
+        "Channels": "Mono",
+        "Real output": "5000 W × 1"
+      },
+      "features": [
+        "Brazilian electronic circuit design",
+        "American CPU IC for increased bass",
+        "High efficiency square transformer",
+        "American IR transistor",
+        "LPF: 50–200 Hz",
+        "Subsonic: 10–80 Hz",
+        "Bass boost frequency: 30–70 Hz",
+        "Bass boost: 0–12 dB",
+        "Remote controller",
+        "Heavy heat sink",
+        "Short circuit protection"
+      ],
+      "note": "The catalogue uses one shared photograph for these three variants.",
+      "image": "images/products/amplifiers/sb-5000-1d.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-8000.1D",
+      "slug": "sb-8000-1d",
+      "page": 17,
+      "cataloguePage": 14,
+      "box": [
+        325,
+        310,
+        965,
+        640
+      ],
+      "specs": {
+        "Channels": "Mono",
+        "Real output": "8000 W × 1"
+      },
+      "features": [
+        "Brazilian electronic circuit design",
+        "American CPU IC for increased bass",
+        "High efficiency square transformer",
+        "American IR transistor",
+        "LPF: 50–200 Hz",
+        "Subsonic: 10–80 Hz",
+        "Bass boost frequency: 30–70 Hz",
+        "Bass boost: 0–12 dB",
+        "Remote controller",
+        "Heavy heat sink",
+        "Short circuit protection"
+      ],
+      "note": "The catalogue uses one shared photograph for these three variants.",
+      "image": "images/products/amplifiers/sb-8000-1d.png"
+    },
+    {
+      "category": "amplifiers",
+      "model": "SB-10001.1D",
+      "slug": "sb-10001-1d",
+      "page": 17,
+      "cataloguePage": 14,
+      "box": [
+        120,
+        1345,
+        545,
+        1605
+      ],
+      "specs": {
+        "Channels": "Mono",
+        "Class": "D",
+        "Real output": "1000 W × 1",
+        "LPF": "50–250 Hz",
+        "HPF": "60 Hz–1.2 kHz",
+        "THD": "<0.15%",
+        "Frequency response": "10 Hz–20 kHz"
+      },
+      "features": [
+        "Palm size",
+        "American IR2093 power IC",
+        "High level input",
+        "Double HPF/LPF",
+        "Short circuit protection",
+        "Overheating protection",
+        "Overvoltage protection"
+      ],
+      "note": "",
+      "image": "images/products/amplifiers/sb-10001-1d.png"
+    },
+    {
+      "category": "android-amplifiers",
+      "model": "Android 4 Channel Amplifier",
+      "slug": "android-4-channel-amplifier",
+      "page": 18,
+      "cataloguePage": 15,
+      "box": [
+        155,
+        435,
+        685,
+        785
+      ],
+      "specs": {
+        "Technology": "A/B class",
+        "Channels": "4",
+        "Maximum stable load": "2 Ω",
+        "RMS at 4 Ω": "15 W × 4 / 14.4 V",
+        "RMS at 2 Ω": "20 W × 4",
+        "Signal to noise ratio": ">90 dB at 14 W",
+        "Frequency response": "20 Hz–20 kHz (−3 dB)",
+        "RCA output": "4 V",
+        "Advertised maximum": "3000 W"
+      },
+      "features": [
+        "MOSFET high power amplifier"
+      ],
+      "note": "",
+      "image": "images/products/android-amplifiers/android-4-channel-amplifier.png"
+    },
+    {
+      "category": "dsp",
+      "model": "SB DSP 6",
+      "slug": "sb-dsp-6",
+      "page": 18,
+      "cataloguePage": 15,
+      "box": [
+        90,
+        1170,
+        735,
+        1555
+      ],
+      "specs": {
+        "Power supply": "9.8–16 V",
+        "Input": "2 channel RCA, 4 channel",
+        "Output": "8 channel RCA; 4 channel amplifier (40 W × 4)",
+        "Control": "PC or app; optional controller",
+        "HPF": "20 Hz–20 kHz",
+        "LPF": "20 Hz–20 kHz",
+        "Filter slope": "0–48 dB/octave",
+        "EQ": "31 bands per channel",
+        "EQ gain": "−20 to +20 dB",
+        "EQ Q": "0.4–128",
+        "S/N ratio": "98 dB",
+        "Time delay": "20 ms per channel, 0.02 ms step",
+        "Dimensions": "168 × 118 × 38 mm"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/dsp/sb-dsp-6.png"
+    },
+    {
+      "category": "led-headlights",
+      "model": "AI 250W Three Color LED",
+      "slug": "ai-250w-three-color-led",
+      "page": 4,
+      "cataloguePage": 1,
+      "box": [
+        645,
+        235,
+        1305,
+        1085
+      ],
+      "specs": {
+        "Power": "250 W",
+        "Luminous flux": "16000 lm",
+        "Colour modes": "Three colour",
+        "Shown temperatures": "3000 K / 8000 K"
+      },
+      "features": [
+        "App connection",
+        "Bluetooth control"
+      ],
+      "note": "",
+      "image": "images/products/led-headlights/ai-250w-three-color-led.png"
+    },
+    {
+      "category": "led-headlights",
+      "model": "300W LED Headlights",
+      "slug": "300w-led-headlights",
+      "page": 4,
+      "cataloguePage": 1,
+      "box": [
+        130,
+        1160,
+        650,
+        1690
+      ],
+      "specs": {
+        "Power": "300 W",
+        "Luminous flux": "30000 lm/set",
+        "Temperature": "6500 K",
+        "Operating temperature": "−40 °C to +108 °C",
+        "Voltage": "DC 9–32 V",
+        "Heat dissipation": "Aviation aluminium",
+        "Life": "30000 hours",
+        "Warranty": "18 months"
+      },
+      "features": [
+        "Copper tube cooling",
+        "High speed fan",
+        "IP68",
+        "Instant start"
+      ],
+      "note": "",
+      "image": "images/products/led-headlights/300w-led-headlights.png"
+    },
+    {
+      "category": "led-headlights",
+      "model": "165W LED Headlights",
+      "slug": "165w-led-headlights",
+      "page": 5,
+      "cataloguePage": 2,
+      "box": [
+        30,
+        250,
+        610,
+        980
+      ],
+      "specs": {
+        "Power": "165 W",
+        "Luminous flux": "16000 lm"
+      },
+      "features": [
+        "Intelligent cooling system",
+        "Super bright"
+      ],
+      "note": "",
+      "image": "images/products/led-headlights/165w-led-headlights.png"
+    },
+    {
+      "category": "led-headlights",
+      "model": "200W LED Headlights",
+      "slug": "200w-led-headlights",
+      "page": 5,
+      "cataloguePage": 2,
+      "box": [
+        710,
+        1070,
+        1290,
+        1585
+      ],
+      "specs": {
+        "Heading power": "200 W",
+        "Table input power": "240 W max",
+        "Luminous flux": "2000 lm/set",
+        "Colour temperature": "6500 K",
+        "Operating temperature": "−40 °C to +108 °C",
+        "Voltage": "DC 9–32 V",
+        "Light source": "CR light source",
+        "Heat dissipation": "Aviation aluminium",
+        "Life": "30000 hours",
+        "Warranty": "2 years"
+      },
+      "features": [
+        "Up to 500 m distance",
+        "Plug and play",
+        "Built in CAN bus",
+        "Efficient energy use",
+        "High speed fan",
+        "IP68"
+      ],
+      "note": "Catalogue heading and table state different power ratings.",
+      "image": "images/products/led-headlights/200w-led-headlights.png"
+    },
+    {
+      "category": "projector-lamps",
+      "model": "400W Lighting Kit",
+      "slug": "400w-lighting-kit",
+      "page": 6,
+      "cataloguePage": 3,
+      "box": [
+        625,
+        260,
+        1260,
+        865
+      ],
+      "specs": {
+        "Power": "400 W",
+        "Luminous flux": "15000 lm",
+        "Temperature": "6500 K",
+        "Warranty": "2 years"
+      },
+      "features": [
+        "High speed fan",
+        "IP68",
+        "Instant start",
+        "30000 hours life"
+      ],
+      "note": "",
+      "image": "images/products/projector-lamps/400w-lighting-kit.png"
+    },
+    {
+      "category": "projector-lamps",
+      "model": "SB-F9X",
+      "slug": "sb-f9x",
+      "page": 6,
+      "cataloguePage": 3,
+      "box": [
+        110,
+        1050,
+        800,
+        1725
+      ],
+      "specs": {
+        "Size": "3 inch",
+        "Voltage": "9–16 V DC",
+        "Low beam": "30 W",
+        "High beam": "40 W",
+        "Colour": "Tri colour",
+        "Distance": "500 m+",
+        "Protection": "IP67"
+      },
+      "features": [
+        "High/low beam fog lamp",
+        "Waterproof and dustproof"
+      ],
+      "note": "",
+      "image": "images/products/projector-lamps/sb-f9x.png"
+    },
+    {
+      "category": "projector-lamps",
+      "model": "SB-F9+2",
+      "slug": "sb-f9-2",
+      "page": 7,
+      "cataloguePage": 4,
+      "box": [
+        55,
+        570,
+        765,
+        955
+      ],
+      "specs": {
+        "Size": "3 inch",
+        "Voltage": "9–16 V DC",
+        "Low beam": "35 W",
+        "High beam": "53 W",
+        "Colour text": "Tri colour",
+        "Heading temperature": "6000 K",
+        "Distance": "900 m+",
+        "Protection": "IP67"
+      },
+      "features": [
+        "High/low beam fog lamp",
+        "Waterproof and dustproof"
+      ],
+      "note": "",
+      "image": "images/products/projector-lamps/sb-f9-2.png"
+    },
+    {
+      "category": "projector-lamps",
+      "model": "SB-FL 2 Inch",
+      "slug": "sb-fl-2-inch",
+      "page": 7,
+      "cataloguePage": 4,
+      "box": [
+        55,
+        1320,
+        650,
+        1735
+      ],
+      "specs": {
+        "Size": "2 inch",
+        "Voltage": "9–16 V DC",
+        "Low beam as printed": "50 W",
+        "High beam as printed": "35 W",
+        "Temperature": "6000 K",
+        "Illuminance": "5000 lx / 3500 lx",
+        "Beam": "High/low",
+        "Protection": "IP67"
+      },
+      "features": [
+        "Waterproof and dustproof"
+      ],
+      "note": "",
+      "image": "images/products/projector-lamps/sb-fl-2-inch.png"
+    },
+    {
+      "category": "car-cameras",
+      "model": "LED Bumper Camera",
+      "slug": "led-bumper-camera",
+      "page": 8,
+      "cataloguePage": 5,
+      "box": [
+        80,
+        280,
+        365,
+        465
+      ],
+      "specs": {
+        "Lens": "18.5 mm",
+        "Angle badge": "170°",
+        "Angle in text": "160°"
+      },
+      "features": [
+        "Low maintenance",
+        "NTSC video system",
+        "Waterproof",
+        "Night vision",
+        "High precision",
+        "Dynamic parking guidelines",
+        "Real time monitoring",
+        "8 LED lights focus"
+      ],
+      "note": "The angle badge and feature text differ.",
+      "image": "images/products/car-cameras/led-bumper-camera.png"
+    },
+    {
+      "category": "car-cameras",
+      "model": "Moving Line Camera",
+      "slug": "moving-line-camera",
+      "page": 8,
+      "cataloguePage": 5,
+      "box": [
+        540,
+        280,
+        770,
+        510
+      ],
+      "specs": {
+        "Lens": "18.5 mm",
+        "Angle badge": "170°",
+        "Angle in text": "160°"
+      },
+      "features": [
+        "Low maintenance",
+        "NTSC video system",
+        "Waterproof",
+        "Night vision",
+        "High precision",
+        "Dynamic parking guidelines",
+        "Real time monitoring",
+        "8 LED lights focus"
+      ],
+      "note": "The angle badge and feature text differ.",
+      "image": "images/products/car-cameras/moving-line-camera.png"
+    },
+    {
+      "category": "car-cameras",
+      "model": "AHD Bumper Camera",
+      "slug": "ahd-bumper-camera",
+      "page": 8,
+      "cataloguePage": 5,
+      "box": [
+        940,
+        330,
+        1170,
+        550
+      ],
+      "specs": {
+        "Lens": "18.5 mm",
+        "Angle badge": "170°",
+        "Angle in text": "160°"
+      },
+      "features": [
+        "Low maintenance",
+        "NTSC video system",
+        "Waterproof",
+        "Night vision",
+        "High precision",
+        "Dynamic parking guidelines",
+        "Real time monitoring",
+        "8 LED lights focus"
+      ],
+      "note": "The angle badge and feature text differ.",
+      "image": "images/products/car-cameras/ahd-bumper-camera.png"
+    },
+    {
+      "category": "car-cameras",
+      "model": "SB-360CM",
+      "slug": "sb-360cm",
+      "page": 8,
+      "cataloguePage": 5,
+      "box": [
+        90,
+        1070,
+        780,
+        1210
+      ],
+      "specs": {
+        "View": "360° bird view"
+      },
+      "features": [
+        "Four camera system"
+      ],
+      "note": "",
+      "image": "images/products/car-cameras/sb-360cm.png"
+    },
+    {
+      "category": "car-cameras",
+      "model": "T5 Front Camera",
+      "slug": "t5-front-camera",
+      "page": 8,
+      "cataloguePage": 5,
+      "box": [
+        145,
+        1255,
+        480,
+        1470
+      ],
+      "specs": {
+        "Power": "12 V",
+        "HD as printed": "1080 × 720 pixels",
+        "Sensor": "Colour CMOS",
+        "TV lines": "800",
+        "Protection": "IP67",
+        "Angle": "170°",
+        "Video system": "NTSC"
+      },
+      "features": [
+        "Compatible with T5 solution",
+        "Guide lines"
+      ],
+      "note": "",
+      "image": "images/products/car-cameras/t5-front-camera.png"
+    },
+    {
+      "category": "car-cameras",
+      "model": "T5 Rear Camera",
+      "slug": "t5-rear-camera",
+      "page": 8,
+      "cataloguePage": 5,
+      "box": [
+        885,
+        1235,
+        1190,
+        1470
+      ],
+      "specs": {
+        "Power": "12 V",
+        "HD as printed": "1080 × 720 pixels",
+        "Sensor": "Colour CMOS",
+        "TV lines": "800",
+        "Protection": "IP67",
+        "Angle": "170°",
+        "Video system": "NTSC"
+      },
+      "features": [
+        "Compatible with T5 solution",
+        "Guide lines"
+      ],
+      "note": "",
+      "image": "images/products/car-cameras/t5-rear-camera.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "SB-8G RD",
+      "slug": "sb-8g-rd",
+      "page": 9,
+      "cataloguePage": 6,
+      "box": [
+        130,
+        450,
+        390,
+        750
+      ],
+      "specs": {
+        "Gauge": "8 GA"
+      },
+      "features": [
+        "CCA material; 14 mm / OD 10 mm as printed",
+        "1 × 17 ft 4 AWG matte frosted power cable",
+        "1 × 3 ft 4 AWG black power cable",
+        "1 × 17 ft 14 AWG speaker cable",
+        "1 × 17 ft RCA cable",
+        "1 × 17 ft 18 AWG remote cable",
+        "Mini fuse holder and 80 A AGU fuse",
+        "Accessories bag"
+      ],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/sb-8g-rd.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "SB-8GA-YW",
+      "slug": "sb-8ga-yw",
+      "page": 9,
+      "cataloguePage": 6,
+      "box": [
+        415,
+        445,
+        690,
+        750
+      ],
+      "specs": {
+        "Gauge": "8 GA"
+      },
+      "features": [
+        "CCA material; 14 mm / OD 10 mm as printed",
+        "1 × 17 ft 4 AWG matte frosted power cable",
+        "1 × 3 ft 4 AWG black power cable",
+        "1 × 17 ft 14 AWG speaker cable",
+        "1 × 17 ft RCA cable",
+        "1 × 17 ft 18 AWG remote cable",
+        "Mini fuse holder and 80 A AGU fuse",
+        "Accessories bag"
+      ],
+      "note": "This model appears twice on the catalogue page.",
+      "image": "images/products/amp-wiring-kits/sb-8ga-yw.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "TO-8GA-YW",
+      "slug": "to-8ga-yw",
+      "page": 9,
+      "cataloguePage": 6,
+      "box": [
+        740,
+        445,
+        970,
+        745
+      ],
+      "specs": {
+        "Gauge": "8 GA"
+      },
+      "features": [
+        "CCA material; 14 mm / OD 10 mm as printed",
+        "1 × 17 ft 4 AWG matte frosted power cable",
+        "1 × 3 ft 4 AWG black power cable",
+        "1 × 17 ft 14 AWG speaker cable",
+        "1 × 17 ft RCA cable",
+        "1 × 17 ft 18 AWG remote cable",
+        "Mini fuse holder and 80 A AGU fuse",
+        "Accessories bag"
+      ],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/to-8ga-yw.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "SB-4GA-YG",
+      "slug": "sb-4ga-yg",
+      "page": 9,
+      "cataloguePage": 6,
+      "box": [
+        140,
+        1310,
+        640,
+        1755
+      ],
+      "specs": {
+        "Gauge": "4 GA"
+      },
+      "features": [
+        "CCA material; 14 mm / OD 10 mm as printed",
+        "1 × 17 ft 4 AWG matte frosted power cable",
+        "1 × 3 ft 4 AWG black power cable",
+        "1 × 17 ft 14 AWG speaker cable",
+        "1 × 17 ft RCA cable",
+        "1 × 17 ft 18 AWG remote cable",
+        "Mini fuse holder and 80 A AGU fuse",
+        "Accessories bag"
+      ],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/sb-4ga-yg.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "OFC Speaker Cable 12GA",
+      "slug": "ofc-speaker-cable-12ga",
+      "page": 41,
+      "cataloguePage": 38,
+      "box": [
+        135,
+        1090,
+        390,
+        1305
+      ],
+      "specs": {
+        "Material": "OFC",
+        "Gauge": "12 GA",
+        "Length": "100 m"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/ofc-speaker-cable-12ga.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "OFC Speaker Cable 14GA",
+      "slug": "ofc-speaker-cable-14ga",
+      "page": 41,
+      "cataloguePage": 38,
+      "box": [
+        430,
+        1090,
+        685,
+        1305
+      ],
+      "specs": {
+        "Material": "OFC",
+        "Gauge": "14 GA",
+        "Length": "100 m"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/ofc-speaker-cable-14ga.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "OFC Speaker Cable 16GA",
+      "slug": "ofc-speaker-cable-16ga",
+      "page": 41,
+      "cataloguePage": 38,
+      "box": [
+        725,
+        1090,
+        980,
+        1305
+      ],
+      "specs": {
+        "Material": "OFC",
+        "Gauge": "16 GA",
+        "Length": "100 m"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/ofc-speaker-cable-16ga.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "OFC Speaker Cable 18GA",
+      "slug": "ofc-speaker-cable-18ga",
+      "page": 41,
+      "cataloguePage": 38,
+      "box": [
+        1020,
+        1090,
+        1275,
+        1305
+      ],
+      "specs": {
+        "Material": "OFC",
+        "Gauge": "18 GA",
+        "Length": "100 m"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/ofc-speaker-cable-18ga.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "CCA Speaker Cable 12GA",
+      "slug": "cca-speaker-cable-12ga",
+      "page": 41,
+      "cataloguePage": 38,
+      "box": [
+        135,
+        1450,
+        390,
+        1695
+      ],
+      "specs": {
+        "Material": "CCA",
+        "Gauge": "12 GA",
+        "Length": "100 m"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/cca-speaker-cable-12ga.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "CCA Speaker Cable 14GA",
+      "slug": "cca-speaker-cable-14ga",
+      "page": 41,
+      "cataloguePage": 38,
+      "box": [
+        430,
+        1450,
+        685,
+        1695
+      ],
+      "specs": {
+        "Material": "CCA",
+        "Gauge": "14 GA",
+        "Length": "100 m"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/cca-speaker-cable-14ga.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "CCA Speaker Cable 16GA",
+      "slug": "cca-speaker-cable-16ga",
+      "page": 41,
+      "cataloguePage": 38,
+      "box": [
+        725,
+        1450,
+        980,
+        1695
+      ],
+      "specs": {
+        "Material": "CCA",
+        "Gauge": "16 GA",
+        "Length": "100 m"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/cca-speaker-cable-16ga.png"
+    },
+    {
+      "category": "amp-wiring-kits",
+      "model": "CCA Speaker Cable 18GA",
+      "slug": "cca-speaker-cable-18ga",
+      "page": 41,
+      "cataloguePage": 38,
+      "box": [
+        1020,
+        1450,
+        1275,
+        1695
+      ],
+      "specs": {
+        "Material": "CCA",
+        "Gauge": "18 GA",
+        "Length": "100 m"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/amp-wiring-kits/cca-speaker-cable-18ga.png"
+    },
+    {
+      "category": "android-players",
+      "model": "T-5 Pro Lamborghini Series",
+      "slug": "t-5-pro-lamborghini-series",
+      "page": 19,
+      "cataloguePage": 16,
+      "box": [
+        220,
+        615,
+        1120,
+        1115
+      ],
+      "specs": {
+        "Screen": "9 inch",
+        "Memory options": "2 GB + 32 GB / 4 GB + 64 GB",
+        "Output": "4 × 50 W",
+        "Pre out": "3 V"
+      },
+      "features": [
+        "Capacitive touch panel",
+        "1280 × 720 display",
+        "AUX input",
+        "Android and iOS mirror link",
+        "Curved Gorilla Glass",
+        "Double DIN mounting",
+        "MP3 / WMA / MP4 / JPEG / BP/MP / WMV9/VC1 playback",
+        "CarPlay",
+        "Split screen",
+        "Premium radio",
+        "AHD camera support",
+        "Hi Fi sound",
+        "Mode function",
+        "Easy connection app",
+        "Navigation",
+        "IPS",
+        "Wi Fi",
+        "Steering wheel control",
+        "Google Maps, YouTube, WhatsApp and Facebook preinstalled"
+      ],
+      "note": "",
+      "image": "images/products/android-players/t-5-pro-lamborghini-series.png"
+    },
+    {
+      "category": "android-players",
+      "model": "TS7 Titanium Series",
+      "slug": "ts7-titanium-series",
+      "page": 20,
+      "cataloguePage": 17,
+      "box": [
+        200,
+        385,
+        1015,
+        860
+      ],
+      "specs": {
+        "Screen": "9 inch",
+        "Memory options": "2 GB + 32 GB / 4 GB + 64 GB"
+      },
+      "features": [
+        "Capacitive touch panel",
+        "1280 × 720 display",
+        "AUX input",
+        "Android and iOS mirror link",
+        "Curved Gorilla Glass",
+        "Double DIN mounting",
+        "MP3 / WMA / MP4 / JPEG / BP/MP / WMV9/VC1 playback",
+        "Video out",
+        "Navigation",
+        "IPS",
+        "Wi Fi",
+        "Steering wheel control",
+        "AHD camera support"
+      ],
+      "note": "",
+      "image": "images/products/android-players/ts7-titanium-series.png"
+    },
+    {
+      "category": "android-players",
+      "model": "Solution A100 TS9",
+      "slug": "solution-a100-ts9",
+      "page": 20,
+      "cataloguePage": 17,
+      "box": [
+        200,
+        1135,
+        1015,
+        1600
+      ],
+      "specs": {
+        "Screen": "9 inch",
+        "Memory options": "2 GB + 32 GB / 4 GB + 64 GB",
+        "Output": "4 × 50 W"
+      },
+      "features": [
+        "Wireless CarPlay",
+        "Android Auto",
+        "DSP",
+        "Dual video out",
+        "External microphone",
+        "Split screen",
+        "Premium radio",
+        "AHD camera support",
+        "Hi Fi sound",
+        "Mode function",
+        "Easy connection app"
+      ],
+      "note": "",
+      "image": "images/products/android-players/solution-a100-ts9.png"
+    },
+    {
+      "category": "android-players",
+      "model": "11.5 Inch 8 Core 2K Player",
+      "slug": "11-5-inch-8-core-2k-player",
+      "page": 21,
+      "cataloguePage": 18,
+      "box": [
+        220,
+        540,
+        1225,
+        1140
+      ],
+      "specs": {
+        "Screen": "11.5 inch",
+        "Resolution": "2000 × 1200",
+        "Memory": "4 GB + 64 GB",
+        "Processor": "8 core, 1.6 GHz",
+        "Android": "11.0",
+        "Wi Fi": "2.4 GHz + 5 GHz dual band",
+        "Languages": "Multiple",
+        "360 panorama": "Yes",
+        "CarPlay": "Wireless",
+        "Power": "DC 12 V",
+        "Operating temperature": "−20 °C to 70 °C",
+        "Video": "MP4 / 3GP / AVI / DIVX / FLY / MKV / MPG / 4K"
+      },
+      "features": [
+        "Dual knobs",
+        "External microphone",
+        "Dual DVR",
+        "One second boot",
+        "5.1 audio output",
+        "Bluetooth",
+        "4G",
+        "Wireless Android Auto",
+        "DSP",
+        "2K QLED"
+      ],
+      "note": "",
+      "image": "images/products/android-players/11-5-inch-8-core-2k-player.png"
+    },
+    {
+      "category": "android-players",
+      "model": "10.1 Inch 4 Core Player",
+      "slug": "10-1-inch-4-core-player",
+      "page": 22,
+      "cataloguePage": 19,
+      "box": [
+        270,
+        285,
+        1180,
+        895
+      ],
+      "specs": {
+        "Screen": "10.1 inch",
+        "Processor": "4 core",
+        "Android": "11.0"
+      },
+      "features": [
+        "Dual knobs",
+        "4G",
+        "Wireless Android Auto",
+        "Wireless CarPlay",
+        "CarLine mobile display",
+        "DSP"
+      ],
+      "note": "",
+      "image": "images/products/android-players/10-1-inch-4-core-player.png"
+    },
+    {
+      "category": "android-players",
+      "model": "New Creta 12.33 Inch Player",
+      "slug": "new-creta-12-33-inch-player",
+      "page": 22,
+      "cataloguePage": 19,
+      "box": [
+        600,
+        1230,
+        1240,
+        1530
+      ],
+      "specs": {
+        "Screen": "12.33 inch",
+        "Display": "QLED/IPS 1600 × 720",
+        "Memory": "2 GB + 32 GB",
+        "Vehicle": "New Creta"
+      },
+      "features": [
+        "Android Auto",
+        "Apple CarPlay",
+        "DSP",
+        "AHD camera support",
+        "Mirror link",
+        "Navigation",
+        "Wi Fi",
+        "Multiple languages"
+      ],
+      "note": "",
+      "image": "images/products/android-players/new-creta-12-33-inch-player.png"
+    },
+    {
+      "category": "fm-usb-players",
+      "model": "USB FM MP3 Player",
+      "slug": "usb-fm-mp3-player",
+      "page": 23,
+      "cataloguePage": 20,
+      "box": [
+        820,
+        1045,
+        1215,
+        1170
+      ],
+      "specs": {
+        "Power": "12 V"
+      },
+      "features": [
+        "Wireless remote",
+        "Steering wheel remote support",
+        "USB playback and charging",
+        "AUX",
+        "Bluetooth calls",
+        "LCD",
+        "Clock",
+        "Equalizer"
+      ],
+      "note": "",
+      "image": "images/products/fm-usb-players/usb-fm-mp3-player.png"
+    },
+    {
+      "category": "fm-usb-players",
+      "model": "SB-300",
+      "slug": "sb-300",
+      "page": 24,
+      "cataloguePage": 21,
+      "box": [
+        85,
+        1435,
+        310,
+        1510
+      ],
+      "specs": {
+        "Power": "DC 12 V",
+        "Max output": "4 × 50 W",
+        "Amplifier IC": "7388",
+        "Audio": "MP3 / WMA with ID3 and EQ",
+        "Display": "White and black VA LCD",
+        "FM presets": "18",
+        "FM range": "87.5–108 MHz",
+        "Radio IC": "8035",
+        "Connector": "ISO",
+        "Operating temperature": "−40 °C to +85 °C",
+        "Storage temperature": "−65 °C to +150 °C"
+      },
+      "features": [
+        "USB / SD / AUX / Bluetooth",
+        "FM and app EQ control",
+        "Folder function",
+        "Metal body and heat sink",
+        "4 channel output",
+        "Remote control"
+      ],
+      "note": "",
+      "image": "images/products/fm-usb-players/sb-300.png"
+    },
+    {
+      "category": "fm-usb-players",
+      "model": "SB-400",
+      "slug": "sb-400",
+      "page": 24,
+      "cataloguePage": 21,
+      "box": [
+        330,
+        1435,
+        555,
+        1510
+      ],
+      "specs": {
+        "Power": "DC 12 V",
+        "Max output": "4 × 50 W",
+        "Amplifier IC": "7388",
+        "Audio": "MP3 / WMA with ID3 and EQ",
+        "Display": "White and black VA LCD",
+        "FM presets": "18",
+        "FM range": "87.5–108 MHz",
+        "Radio IC": "8035",
+        "Connector": "ISO",
+        "Operating temperature": "−40 °C to +85 °C",
+        "Storage temperature": "−65 °C to +150 °C"
+      },
+      "features": [
+        "USB / SD / AUX / Bluetooth",
+        "FM and app EQ control",
+        "Folder function",
+        "Metal body and heat sink",
+        "4 channel output",
+        "Remote control"
+      ],
+      "note": "",
+      "image": "images/products/fm-usb-players/sb-400.png"
+    },
+    {
+      "category": "fm-usb-players",
+      "model": "SB-500",
+      "slug": "sb-500",
+      "page": 24,
+      "cataloguePage": 21,
+      "box": [
+        85,
+        1570,
+        310,
+        1645
+      ],
+      "specs": {
+        "Power": "DC 12 V",
+        "Max output": "4 × 50 W",
+        "Amplifier IC": "7388",
+        "Audio": "MP3 / WMA with ID3 and EQ",
+        "Display": "White and black VA LCD",
+        "FM presets": "18",
+        "FM range": "87.5–108 MHz",
+        "Radio IC": "8035",
+        "Connector": "ISO",
+        "Operating temperature": "−40 °C to +85 °C",
+        "Storage temperature": "−65 °C to +150 °C"
+      },
+      "features": [
+        "USB / SD / AUX / Bluetooth",
+        "FM and app EQ control",
+        "Folder function",
+        "Metal body and heat sink",
+        "4 channel output",
+        "Remote control"
+      ],
+      "note": "",
+      "image": "images/products/fm-usb-players/sb-500.png"
+    },
+    {
+      "category": "fm-usb-players",
+      "model": "SB-600",
+      "slug": "sb-600",
+      "page": 24,
+      "cataloguePage": 21,
+      "box": [
+        330,
+        1570,
+        555,
+        1645
+      ],
+      "specs": {
+        "Power": "DC 12 V",
+        "Max output": "4 × 50 W",
+        "Amplifier IC": "7388",
+        "Audio": "MP3 / WMA with ID3 and EQ",
+        "Display": "White and black VA LCD",
+        "FM presets": "18",
+        "FM range": "87.5–108 MHz",
+        "Radio IC": "8035",
+        "Connector": "ISO",
+        "Operating temperature": "−40 °C to +85 °C",
+        "Storage temperature": "−65 °C to +150 °C"
+      },
+      "features": [
+        "USB / SD / AUX / Bluetooth",
+        "FM and app EQ control",
+        "Folder function",
+        "Metal body and heat sink",
+        "4 channel output",
+        "Remote control"
+      ],
+      "note": "",
+      "image": "images/products/fm-usb-players/sb-600.png"
+    },
+    {
+      "category": "fm-usb-players",
+      "model": "SB-700",
+      "slug": "sb-700",
+      "page": 24,
+      "cataloguePage": 21,
+      "box": [
+        85,
+        1705,
+        310,
+        1780
+      ],
+      "specs": {
+        "Power": "DC 12 V",
+        "Max output": "4 × 50 W",
+        "Amplifier IC": "7388",
+        "Audio": "MP3 / WMA with ID3 and EQ",
+        "Display": "White and black VA LCD",
+        "FM presets": "18",
+        "FM range": "87.5–108 MHz",
+        "Radio IC": "8035",
+        "Connector": "ISO",
+        "Operating temperature": "−40 °C to +85 °C",
+        "Storage temperature": "−65 °C to +150 °C"
+      },
+      "features": [
+        "USB / SD / AUX / Bluetooth",
+        "FM and app EQ control",
+        "Folder function",
+        "Metal body and heat sink",
+        "4 channel output",
+        "Remote control"
+      ],
+      "note": "",
+      "image": "images/products/fm-usb-players/sb-700.png"
+    },
+    {
+      "category": "fm-usb-players",
+      "model": "SB-800",
+      "slug": "sb-800",
+      "page": 24,
+      "cataloguePage": 21,
+      "box": [
+        330,
+        1705,
+        555,
+        1780
+      ],
+      "specs": {
+        "Power": "DC 12 V",
+        "Max output": "4 × 50 W",
+        "Amplifier IC": "7388",
+        "Audio": "MP3 / WMA with ID3 and EQ",
+        "Display": "White and black VA LCD",
+        "FM presets": "18",
+        "FM range": "87.5–108 MHz",
+        "Radio IC": "8035",
+        "Connector": "ISO",
+        "Operating temperature": "−40 °C to +85 °C",
+        "Storage temperature": "−65 °C to +150 °C"
+      },
+      "features": [
+        "USB / SD / AUX / Bluetooth",
+        "FM and app EQ control",
+        "Folder function",
+        "Metal body and heat sink",
+        "4 channel output",
+        "Remote control"
+      ],
+      "note": "",
+      "image": "images/products/fm-usb-players/sb-800.png"
+    },
+    {
+      "category": "fm-usb-players",
+      "model": "Dual Knob Type C Player",
+      "slug": "dual-knob-type-c-player",
+      "page": 24,
+      "cataloguePage": 21,
+      "box": [
+        510,
+        985,
+        1280,
+        1285
+      ],
+      "specs": {
+        "Output": "4 × 45 W",
+        "RCA": "6",
+        "Subwoofer channels": "2",
+        "Metal": "0.5 mm, 9 cm",
+        "Heat sink": "110 g"
+      },
+      "features": [
+        "FM / USB / Type C / AUX / WMA / MP3",
+        "VA LCD calendar",
+        "Two knobs",
+        "4 V sub output",
+        "Rubber remote",
+        "Copper cable and PCB",
+        "Microphone port"
+      ],
+      "note": "No distinct model number is printed for this player.",
+      "image": "images/products/fm-usb-players/dual-knob-type-c-player.png"
+    },
+    {
+      "category": "fm-usb-players",
+      "model": "Dual Knob LCD Player",
+      "slug": "dual-knob-lcd-player",
+      "page": 24,
+      "cataloguePage": 21,
+      "box": [
+        615,
+        1270,
+        1280,
+        1540
+      ],
+      "specs": {
+        "Output": "4 × 45 W",
+        "RCA": "6",
+        "Subwoofer channels": "2",
+        "Metal": "0.5 mm, 9 cm",
+        "Heat sink": "110 g"
+      },
+      "features": [
+        "FM / USB / Type C / AUX / WMA / MP3",
+        "VA LCD calendar",
+        "Two knobs",
+        "4 V sub output",
+        "Rubber remote",
+        "Copper cable and PCB",
+        "Microphone port"
+      ],
+      "note": "No distinct model number is printed for this player.",
+      "image": "images/products/fm-usb-players/dual-knob-lcd-player.png"
+    },
+    {
+      "category": "car-speakers",
+      "model": "SB-1662A Rain Guard",
+      "slug": "sb-1662a-rain-guard",
+      "page": 25,
+      "cataloguePage": 22,
+      "box": [
+        75,
+        540,
+        790,
+        945
+      ],
+      "specs": {
+        "Size": "6 inch",
+        "Heading power": "900 W",
+        "Feature power": "600 W peak / 50 W RMS"
+      },
+      "features": [
+        "Impactful bass",
+        "ABS plastic ring",
+        "Mica injection reinforced cone",
+        "Premium components",
+        "Bigger magnets",
+        "Water and corrosion resistance"
+      ],
+      "note": "Heading and feature power ratings differ.",
+      "image": "images/products/car-speakers/sb-1662a-rain-guard.png"
+    },
+    {
+      "category": "car-speakers",
+      "model": "SB-1661A",
+      "slug": "sb-1661a",
+      "page": 25,
+      "cataloguePage": 22,
+      "box": [
+        75,
+        1360,
+        820,
+        1770
+      ],
+      "specs": {
+        "Series": "Champion",
+        "Type": "6.5 inch three way",
+        "Heading power": "350 W",
+        "Impedance": "4 Ω",
+        "Table continuous power": "75 W",
+        "Sensitivity": "93 dB at 2.83 V / 1 m",
+        "Feature continuous power": "80 W",
+        "Feature peak power": "650 W"
+      },
+      "features": [
+        "Increased efficiency plus one design",
+        "Titanium laminated tweeter"
+      ],
+      "note": "Heading, feature and table power ratings differ.",
+      "image": "images/products/car-speakers/sb-1661a.png"
+    },
+    {
+      "category": "car-speakers",
+      "model": "Champion 6x9 Oval Speaker",
+      "slug": "champion-6x9-oval-speaker",
+      "page": 26,
+      "cataloguePage": 23,
+      "box": [
+        75,
+        610,
+        815,
+        945
+      ],
+      "specs": {
+        "Type": "6 × 9 inch three way",
+        "Impedance": "4 Ω",
+        "Continuous power": "75 W",
+        "Peak power": "900 W",
+        "Sensitivity": "93 dB at 2.83 V / 1 m"
+      },
+      "features": [
+        "Increased efficiency plus one design",
+        "Titanium laminated tweeter"
+      ],
+      "note": "",
+      "image": "images/products/car-speakers/champion-6x9-oval-speaker.png"
+    },
+    {
+      "category": "car-speakers",
+      "model": "SB-402",
+      "slug": "sb-402",
+      "page": 26,
+      "cataloguePage": 23,
+      "box": [
+        65,
+        1360,
+        780,
+        1735
+      ],
+      "specs": {
+        "Type": "4 inch two way",
+        "Heading power": "250 W",
+        "Feature power": "600 W peak / 50 W RMS"
+      },
+      "features": [
+        "ABS plastic ring",
+        "Premium components",
+        "Bigger magnets",
+        "Water and corrosion resistance"
+      ],
+      "note": "Heading and feature power ratings differ.",
+      "image": "images/products/car-speakers/sb-402.png"
+    },
+    {
+      "category": "mid-range-speakers",
+      "model": "SB-M300S",
+      "slug": "sb-m300s",
+      "page": 27,
+      "cataloguePage": 24,
+      "box": [
+        85,
+        620,
+        775,
+        955
+      ],
+      "specs": {
+        "Size": "6.5 inch",
+        "Surround": "Cloth",
+        "Cone": "Pressed paper",
+        "Frame": "Stamped steel",
+        "Magnet": "Ferrite",
+        "Voice coil": "1.5 inch",
+        "Coil wire": "CCAW",
+        "Frequency response as printed": "10–15500",
+        "Series": "Arnold",
+        "RMS power": "300 W",
+        "Max power": "600 W"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/mid-range-speakers/sb-m300s.png"
+    },
+    {
+      "category": "mid-range-speakers",
+      "model": "SB-M150S",
+      "slug": "sb-m150s",
+      "page": 27,
+      "cataloguePage": 24,
+      "box": [
+        95,
+        1370,
+        775,
+        1730
+      ],
+      "specs": {
+        "Size": "6.5 inch",
+        "Surround": "Cloth",
+        "Cone": "Pressed paper",
+        "Frame": "Stamped steel",
+        "Magnet": "Ferrite",
+        "Voice coil": "1.5 inch",
+        "Coil wire": "CCAW",
+        "Frequency response as printed": "10–15500",
+        "Series": "Sylvester",
+        "RMS in table": "130 W"
+      },
+      "features": [],
+      "note": "Heading says SB-M150S; rear label says SB-M120S. Maximum power is blank.",
+      "image": "images/products/mid-range-speakers/sb-m150s.png"
+    },
+    {
+      "category": "mid-range-speakers",
+      "model": "SB-100",
+      "slug": "sb-100",
+      "page": 28,
+      "cataloguePage": 25,
+      "box": [
+        90,
+        590,
+        745,
+        960
+      ],
+      "specs": {
+        "Size": "6.5 inch",
+        "Cone": "Black paper with cloth edge",
+        "Impedance": "4 Ω",
+        "Rated power": "60 W",
+        "Max power": "180 W",
+        "Frequency response": "90 Hz–15 kHz",
+        "Sensitivity": "91 dB"
+      },
+      "features": [],
+      "note": "Heading says SB-100; rear label says SB-100W.",
+      "image": "images/products/mid-range-speakers/sb-100.png"
+    },
+    {
+      "category": "mid-range-speakers",
+      "model": "SB-60W",
+      "slug": "sb-60w",
+      "page": 28,
+      "cataloguePage": 25,
+      "box": [
+        85,
+        1360,
+        750,
+        1750
+      ],
+      "specs": {
+        "Size": "6.5 inch",
+        "Cone": "Black paper with cloth edge",
+        "Impedance": "4 Ω",
+        "Rated power": "60 W",
+        "Max power": "180 W",
+        "Frequency response": "90 Hz–15 kHz",
+        "Sensitivity": "91 dB"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/mid-range-speakers/sb-60w.png"
+    },
+    {
+      "category": "component-speakers",
+      "model": "SB-EN65C",
+      "slug": "sb-en65c",
+      "page": 29,
+      "cataloguePage": 26,
+      "box": [
+        110,
+        600,
+        725,
+        965
+      ],
+      "specs": {
+        "Size": "6.5 inch",
+        "Cone": "Black paper with cloth edge",
+        "Impedance": "4 Ω",
+        "Rated power": "100 W",
+        "Max power": "200 W",
+        "Frequency response": "100 Hz–14 kHz",
+        "Sensitivity": "92 dB"
+      },
+      "features": [
+        "Component system",
+        "Separate tweeters and crossovers"
+      ],
+      "note": "",
+      "image": "images/products/component-speakers/sb-en65c.png"
+    },
+    {
+      "category": "component-speakers",
+      "model": "SB-M65C",
+      "slug": "sb-m65c",
+      "page": 29,
+      "cataloguePage": 26,
+      "box": [
+        115,
+        1290,
+        765,
+        1805
+      ],
+      "specs": {
+        "Size": "6.5 inch",
+        "Cone": "Black paper with cloth edge",
+        "Impedance": "4 Ω",
+        "Rated power": "100 W",
+        "Max power": "200 W",
+        "Frequency response": "100 Hz–14 kHz",
+        "Sensitivity": "92 dB"
+      },
+      "features": [
+        "Component system",
+        "Separate tweeters and crossovers"
+      ],
+      "note": "",
+      "image": "images/products/component-speakers/sb-m65c.png"
+    },
+    {
+      "category": "bass-tubes",
+      "model": "SB-1022",
+      "slug": "sb-1022",
+      "page": 30,
+      "cataloguePage": 27,
+      "box": [
+        110,
+        1435,
+        520,
+        1740
+      ],
+      "specs": {
+        "Size": "10 inch",
+        "Advertised power": "6200 W",
+        "Type": "Active bass tube"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/bass-tubes/sb-1022.png"
+    },
+    {
+      "category": "bass-tubes",
+      "model": "SB-820",
+      "slug": "sb-820",
+      "page": 30,
+      "cataloguePage": 27,
+      "box": [
+        440,
+        1435,
+        850,
+        1740
+      ],
+      "specs": {
+        "Size": "8 inch",
+        "Advertised power": "5800 W",
+        "Type": "Active bass tube"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/bass-tubes/sb-820.png"
+    },
+    {
+      "category": "bass-tubes",
+      "model": "SB-816",
+      "slug": "sb-816",
+      "page": 30,
+      "cataloguePage": 27,
+      "box": [
+        770,
+        1435,
+        1180,
+        1740
+      ],
+      "specs": {
+        "Size": "8 inch",
+        "Advertised power": "4800 W",
+        "Type": "Active bass tube"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/bass-tubes/sb-816.png"
+    },
+    {
+      "category": "active-subwoofers",
+      "model": "10 Inch Slim Fit Dual Active Subwoofer",
+      "slug": "10-inch-slim-fit-dual-active-subwoofer",
+      "page": 31,
+      "cataloguePage": 28,
+      "box": [
+        170,
+        750,
+        1085,
+        1475
+      ],
+      "specs": {
+        "Size": "10 inch dual",
+        "Max power": "700 W",
+        "RMS power": "350 W",
+        "THD": "<0.4%",
+        "S/N ratio": ">95 dB",
+        "Frequency response": "20–150 Hz",
+        "High input sensitivity": "0.9 V",
+        "Low input sensitivity": "300 mV",
+        "Low pass filter": "40–180 Hz",
+        "Bass boost": "0 to +12 dB",
+        "Fuse": "30 A",
+        "Impedance": "2 Ω",
+        "Coil diameter": "50 mm",
+        "Magnet": "41 oz"
+      },
+      "features": [
+        "Slim fit enclosure",
+        "High bass"
+      ],
+      "note": "",
+      "image": "images/products/active-subwoofers/10-inch-slim-fit-dual-active-subwoofer.png"
+    },
+    {
+      "category": "underseat",
+      "model": "10 Inch Underseat 120 RMS",
+      "slug": "10-inch-underseat-120-rms",
+      "page": 32,
+      "cataloguePage": 29,
+      "box": [
+        135,
+        410,
+        615,
+        975
+      ],
+      "specs": {
+        "Size": "10 inch",
+        "Heading RMS": "120 W",
+        "Real input at 4 Ω": "100 W × 1",
+        "S/N ratio": ">90 dB",
+        "Bass boost": "0–12 dB",
+        "Impedance": "4 Ω",
+        "Frequency": "20–150 Hz",
+        "Magnet dimensions": "Ø120 × Ø45 × Ø17 mm"
+      },
+      "features": [
+        "DSP for better bass",
+        "Automatic gain control",
+        "High power low distortion amplifier"
+      ],
+      "note": "Heading says 120 RMS; specification says 100 W × 1.",
+      "image": "images/products/underseat/10-inch-underseat-120-rms.png"
+    },
+    {
+      "category": "underseat",
+      "model": "Beyond Thin Car Subwoofer",
+      "slug": "beyond-thin-car-subwoofer",
+      "page": 32,
+      "cataloguePage": 29,
+      "box": [
+        115,
+        1230,
+        530,
+        1755
+      ],
+      "specs": {
+        "Heading RMS": "100 W",
+        "Rated/max power as printed": "300 W–1200 W",
+        "THD": "<0.4%",
+        "S/N ratio": ">90 dB",
+        "Frequency": "20–500 Hz",
+        "High sensitivity": "0.9 V",
+        "Low sensitivity": "300 mV",
+        "Bass boost as printed": "50–150 Hz",
+        "HPF as printed": "0 to +12 dB",
+        "Low boost as printed": "20 Hz",
+        "Load": "4 Ω",
+        "Fuse": "25 A",
+        "Active bass": "8–10 inch",
+        "Dimensions": "345 × 260 × 68 mm"
+      },
+      "features": [],
+      "note": "Several table labels and power ratings conflict. Values are transcribed as printed.",
+      "image": "images/products/underseat/beyond-thin-car-subwoofer.png"
+    },
+    {
+      "category": "damping-sheets",
+      "model": "Sound Blast Car Damping Sheet",
+      "slug": "sound-blast-car-damping-sheet",
+      "page": 33,
+      "cataloguePage": 30,
+      "box": [
+        760,
+        390,
+        1330,
+        735
+      ],
+      "specs": {},
+      "features": [
+        "Car damping sheet",
+        "Sound Blast branded material"
+      ],
+      "note": "",
+      "image": "images/products/damping-sheets/sound-blast-car-damping-sheet.png"
+    },
+    {
+      "category": "bullet-tweeters",
+      "model": "SB-BT 01",
+      "slug": "sb-bt-01",
+      "page": 34,
+      "cataloguePage": 31,
+      "box": [
+        80,
+        540,
+        810,
+        855
+      ],
+      "specs": {
+        "RMS": "100 W",
+        "Maximum": "200 W",
+        "Sensitivity": "99 dB",
+        "Frequency": "5–20 kHz",
+        "Weight": "0.52 kg",
+        "Impedance": "4 Ω",
+        "Coil diameter": "25.5 mm",
+        "Magnet": "High flux ferrite",
+        "Coil bobbin": "Kapton"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/bullet-tweeters/sb-bt-01.png"
+    },
+    {
+      "category": "hi-low-converters",
+      "model": "Hi Low Speaker Level Converter",
+      "slug": "hi-low-speaker-level-converter",
+      "page": 34,
+      "cataloguePage": 31,
+      "box": [
+        215,
+        1310,
+        620,
+        1530
+      ],
+      "specs": {
+        "Type": "Speaker level converter"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/hi-low-converters/hi-low-speaker-level-converter.png"
+    },
+    {
+      "category": "hi-low-converters",
+      "model": "TD-22",
+      "slug": "td-22",
+      "page": 34,
+      "cataloguePage": 31,
+      "box": [
+        230,
+        1555,
+        695,
+        1810
+      ],
+      "specs": {
+        "Type": "Speaker level converter"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/hi-low-converters/td-22.png"
+    },
+    {
+      "category": "dashcams",
+      "model": "7G02",
+      "slug": "7g02",
+      "page": 35,
+      "cataloguePage": 32,
+      "box": [
+        80,
+        435,
+        520,
+        780
+      ],
+      "specs": {
+        "Lens": "Fisheye",
+        "Front angle": "135°",
+        "Rear angle": "125°",
+        "Power": "12–24 V",
+        "Storage": "Max 256 GB",
+        "LCD": "3 inch, 640 × 360",
+        "Recording": "Dual lens",
+        "Front": "2K",
+        "Rear": "720p",
+        "Network": "B1 / B3 / B5 / B8 / B40"
+      },
+      "features": [
+        "Phone live video via app",
+        "G sensor",
+        "Loop recording",
+        "Parking monitor",
+        "4G",
+        "Wi Fi",
+        "GPS tracking"
+      ],
+      "note": "",
+      "image": "images/products/dashcams/7g02.png"
+    },
+    {
+      "category": "dashcams",
+      "model": "7G14",
+      "slug": "7g14",
+      "page": 35,
+      "cataloguePage": 32,
+      "box": [
+        730,
+        1295,
+        1145,
+        1700
+      ],
+      "specs": {
+        "Lens": "Fisheye",
+        "Front angle": "135°",
+        "Rear angle": "125°",
+        "Power": "12–24 V",
+        "Storage": "Max 256 GB",
+        "LCD": "3 inch, 640 × 360",
+        "Recording": "Dual lens",
+        "Front": "2K",
+        "Rear text": "1K",
+        "Image label": "2K + 1080p",
+        "Network": "B1 / B3 / B5 / B8 / B40"
+      },
+      "features": [
+        "Phone live video via app",
+        "G sensor",
+        "Loop recording",
+        "Parking monitor",
+        "4G",
+        "Wi Fi",
+        "GPS tracking"
+      ],
+      "note": "Rear resolution is 1K in text and 1080p in the image label.",
+      "image": "images/products/dashcams/7g14.png"
+    },
+    {
+      "category": "dashcams",
+      "model": "7W29",
+      "slug": "7w29",
+      "page": 36,
+      "cataloguePage": 33,
+      "box": [
+        125,
+        320,
+        535,
+        765
+      ],
+      "specs": {
+        "Lens": "Fisheye",
+        "Front angle": "135°",
+        "Rear angle": "125°",
+        "Power": "12–24 V",
+        "Storage": "Max 256 GB",
+        "LCD": "3 inch, 640 × 360",
+        "Recording": "Dual lens",
+        "Front": "4K",
+        "Rear": "2K"
+      },
+      "features": [
+        "Phone live video via app",
+        "G sensor",
+        "Loop recording",
+        "Parking monitor",
+        "ADAS + BSD"
+      ],
+      "note": "",
+      "image": "images/products/dashcams/7w29.png"
+    },
+    {
+      "category": "dashcams",
+      "model": "7W12",
+      "slug": "7w12",
+      "page": 36,
+      "cataloguePage": 33,
+      "box": [
+        720,
+        1300,
+        1240,
+        1715
+      ],
+      "specs": {
+        "Recording": "Dual lens",
+        "Lens": "Fisheye",
+        "Front": "4K AHD",
+        "Rear": "2K",
+        "Screen": "3.2 inch",
+        "Body": "ABS",
+        "Microphone": "Included",
+        "Wi Fi": "App connection",
+        "Storage": "TF class 10 or above, max 256 GB"
+      },
+      "features": [
+        "Phone live video via app",
+        "G sensor",
+        "Loop recording",
+        "Parking monitor",
+        "Built in card slot",
+        "ADAS + BSD"
+      ],
+      "note": "",
+      "image": "images/products/dashcams/7w12.png"
+    },
+    {
+      "category": "dashcams",
+      "model": "7W32T",
+      "slug": "7w32t",
+      "page": 37,
+      "cataloguePage": 34,
+      "box": [
+        100,
+        385,
+        590,
+        705
+      ],
+      "specs": {
+        "Recording": "3 lenses",
+        "Lens": "Fisheye",
+        "Front": "4K",
+        "Inside": "1K",
+        "Rear": "1K",
+        "Screen": "3.18 inch IPS",
+        "Body": "ABS",
+        "Microphone": "Included",
+        "Wi Fi": "App connection",
+        "Storage": "Max 256 GB"
+      },
+      "features": [
+        "Built in card slot",
+        "Phone live video via app"
+      ],
+      "note": "",
+      "image": "images/products/dashcams/7w32t.png"
+    },
+    {
+      "category": "dashcams",
+      "model": "7D16",
+      "slug": "7d16",
+      "page": 37,
+      "cataloguePage": 34,
+      "box": [
+        725,
+        1245,
+        1185,
+        1735
+      ],
+      "specs": {
+        "Recording": "3 lenses",
+        "Front": "720p",
+        "Inside": "720p",
+        "Rear": "720p",
+        "Screen": "2 inch IPS HD",
+        "Power": "Mini USB 5 V / 2 A",
+        "Storage": "Max 64 GB class 10 TF",
+        "Rear lens port": "2.5 mm digital 720p"
+      },
+      "features": [
+        "G sensor"
+      ],
+      "note": "",
+      "image": "images/products/dashcams/7d16.png"
+    },
+    {
+      "category": "car-chargers",
+      "model": "3 In 1 Car Charger",
+      "slug": "3-in-1-car-charger",
+      "page": 38,
+      "cataloguePage": 35,
+      "box": [
+        835,
+        245,
+        1165,
+        930
+      ],
+      "specs": {
+        "Cable": "3 in 1"
+      },
+      "features": [
+        "Fast charging",
+        "Smartphone, tablet and GPS compatibility",
+        "Stable high speed output",
+        "Overcharge, overheating and short circuit protection",
+        "Compact durable design",
+        "LED indicator",
+        "Plug and play"
+      ],
+      "note": "",
+      "image": "images/products/car-chargers/3-in-1-car-charger.png"
+    },
+    {
+      "category": "car-chargers",
+      "model": "2 In 1 Car Charger",
+      "slug": "2-in-1-car-charger",
+      "page": 38,
+      "cataloguePage": 35,
+      "box": [
+        690,
+        1235,
+        1000,
+        1865
+      ],
+      "specs": {
+        "Cable": "2 in 1"
+      },
+      "features": [
+        "Fast charging",
+        "Smartphone, tablet and GPS compatibility",
+        "Stable high speed output",
+        "Overcharge, overheating and short circuit protection",
+        "Compact durable design",
+        "LED indicator",
+        "Plug and play"
+      ],
+      "note": "",
+      "image": "images/products/car-chargers/2-in-1-car-charger.png"
+    },
+    {
+      "category": "subwoofers",
+      "model": "SB-1200",
+      "slug": "sb-1200",
+      "page": 39,
+      "cataloguePage": 36,
+      "box": [
+        110,
+        540,
+        755,
+        915
+      ],
+      "specs": {
+        "Size": "12 inch",
+        "Dimensions": "311 × 229 mm",
+        "Nominal power": "1200 W",
+        "Max power": "2400 W",
+        "Sensitivity": "89 dB",
+        "Frequency as printed": "32–900",
+        "Cone": "Paper",
+        "Additional material as printed": "AL",
+        "Weight": "9.6 kg"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/subwoofers/sb-1200.png"
+    },
+    {
+      "category": "subwoofers",
+      "model": "SB-600",
+      "slug": "sb-600",
+      "page": 39,
+      "cataloguePage": 36,
+      "box": [
+        100,
+        1405,
+        725,
+        1720
+      ],
+      "specs": {
+        "Size": "12 inch",
+        "Cone": "Black paper with foam edge",
+        "Impedance": "4 + 4 Ω",
+        "Rated power": "600 W",
+        "Max power": "1200 W",
+        "Frequency": "35 Hz–1 kHz",
+        "Sensitivity": "89 dB"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/subwoofers/sb-600.png"
+    },
+    {
+      "category": "full-range-speakers",
+      "model": "SB-L-2.5FR",
+      "slug": "sb-l-2-5fr",
+      "page": 40,
+      "cataloguePage": 37,
+      "box": [
+        135,
+        555,
+        725,
+        935
+      ],
+      "specs": {
+        "Size": "2.5 inch",
+        "Cone": "Titanium dome",
+        "Coil diameter": "25 mm",
+        "Magnet": "Neodymium",
+        "Impedance": "2.8 Ω",
+        "Sensitivity": "95 dB",
+        "Frequency as printed": "150 Hz",
+        "Real power": "35 W",
+        "Peak power": "220 W"
+      },
+      "features": [
+        "LED app control"
+      ],
+      "note": "",
+      "image": "images/products/full-range-speakers/sb-l-2-5fr.png"
+    },
+    {
+      "category": "full-range-speakers",
+      "model": "SB-3FR",
+      "slug": "sb-3fr",
+      "page": 40,
+      "cataloguePage": 37,
+      "box": [
+        110,
+        1385,
+        730,
+        1710
+      ],
+      "specs": {
+        "Size": "3 inch",
+        "Cone": "Titanium dome",
+        "Coil diameter": "25 mm",
+        "Magnet": "Neodymium",
+        "Impedance": "2.8 Ω",
+        "Sensitivity": "95 dB",
+        "Frequency as printed": "150 Hz",
+        "Real power": "35 W",
+        "Peak power": "220 W"
+      },
+      "features": [],
+      "note": "",
+      "image": "images/products/full-range-speakers/sb-3fr.png"
+    }
+  ]
+}

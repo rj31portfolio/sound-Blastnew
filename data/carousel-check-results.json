@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Product cards",
+    "cards": 9,
+    "nestedAnchors": 0,
+    "titleSize": "27px",
+    "enquiry": "https://wa.me/919318321456?text=Hello%20Sound%20Blast%2C%20I%20would%20like%20to%20enquire%20about%20HE-250.4D%20%28Amplifiers%29.%20Please%20share%20availability%20and%20product%20details."
+  },
+  {
+    "name": "Category initial",
+    "count": 22,
+    "autoplay": "true",
+    "start": 1
+  },
+  {
+    "name": "Category autoplay",
+    "left": 1297,
+    "status": "6–10 of 22"
+  },
+  {
+    "name": "Category manual next",
+    "left": 2593
+  },
+  {
+    "name": "Category pause",
+    "autoplay": "false",
+    "pressed": "true"
+  },
+  {
+    "name": "Testimonial autoplay",
+    "left": 954,
+    "samples": "Sample testimonials · Illustrative names and quotes",
+    "cards": 5
+  },
+  {
+    "name": "Testimonial manual previous",
+    "left": 1
+  },
+  {
+    "name": "Home width 390",
+    "width": 390,
+    "scroll": 390
+  },
+  {
+    "name": "Home width 768",
+    "width": 768,
+    "scroll": 753
+  },
+  {
+    "name": "Home width 1024",
+    "width": 1024,
+    "scroll": 1009
+  },
+  {
+    "name": "Reduced motion",
+    "sliders": [
+      "false",
+      "true"
+    ]
+  },
+  {
+    "name": "About width 1440",
+    "width": 1440,
+    "scroll": 1425,
+    "h1": "For the drive.For the music.For the feeling.",
+    "missing": 0
+  },
+  {
+    "name": "About width 390",
+    "width": 390,
+    "scroll": 390,
+    "h1": "For the drive.For the music.For the feeling.",
+    "missing": 0
+  },
+  {
+    "name": "About width 768",
+    "width": 768,
+    "scroll": 753,
+    "h1": "For the drive.For the music.For the feeling.",
+    "missing": 0
+  },
+  {
+    "name": "Reduced motion preference settled (separate check)",
+    "matches": true,
+    "sliders": [
+      "false",
+      "false"
+    ]
+  }
+]

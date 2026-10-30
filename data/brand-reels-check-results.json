@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Reels 1440",
+    "width": 1440,
+    "scroll": 1425,
+    "cards": 4,
+    "missing": 0,
+    "pending": [
+      "Reel preview coming soon",
+      "Reel preview coming soon",
+      "Reel preview coming soon",
+      "Reel preview coming soon"
+    ],
+    "videos": 0
+  },
+  {
+    "name": "Reels 390",
+    "width": 390,
+    "scroll": 390,
+    "cards": 4,
+    "missing": 0,
+    "pending": [
+      "Reel preview coming soon",
+      "Reel preview coming soon",
+      "Reel preview coming soon",
+      "Reel preview coming soon"
+    ],
+    "videos": 0
+  },
+  {
+    "name": "Reels 768",
+    "width": 768,
+    "scroll": 753,
+    "cards": 4,
+    "missing": 0,
+    "pending": [
+      "Reel preview coming soon",
+      "Reel preview coming soon",
+      "Reel preview coming soon",
+      "Reel preview coming soon"
+    ],
+    "videos": 0
+  }
+]

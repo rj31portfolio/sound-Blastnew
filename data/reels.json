@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "Sound Blast",
+    "title": "Your drive. Your soundtrack.",
+    "subtitle": "Car audio & connected entertainment",
+    "cover": "images/products/android-players/t-5-pro-lamborghini-series.png",
+    "theme": "soundblast",
+    "instagram_url": "",
+    "video_url": "images/reels/1.mp4"
+  },
+  {
+    "brand": "Hercules",
+    "title": "Power you can feel.",
+    "subtitle": "The Hercules amplifier series",
+    "cover": "images/products/amplifiers/he-250-4d.png",
+    "theme": "hercules",
+    "instagram_url": "",
+    "video_url": "images/reels/2.mp4"
+  },
+  {
+    "brand": "Torpedo",
+    "title": "Turn up the possibilities.",
+    "subtitle": "Explore the Torpedo series",
+    "cover": "images/products/amplifiers/st-802.png",
+    "theme": "torpedo",
+    "instagram_url": "",
+    "video_url": "images/reels/3.mp4"
+  },
+  {
+    "brand": "Focal Audio",
+    "title": "For the love of sound.",
+    "subtitle": "Discover our brands & series",
+    "cover": "images/interior.png",
+    "theme": "focal",
+    "instagram_url": "",
+    "video_url": "images/reels/4.mp4"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "name": "First banner",
+    "width": 1440,
+    "scroll": 1425,
+    "active": "0",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "true"
+  },
+  {
+    "name": "Autoplay",
+    "width": 1440,
+    "scroll": 1425,
+    "active": "1",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "true"
+  },
+  {
+    "name": "Manual next",
+    "width": 1440,
+    "scroll": 1425,
+    "active": "2",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "true"
+  },
+  {
+    "name": "Manual previous",
+    "width": 1440,
+    "scroll": 1425,
+    "active": "1",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "true"
+  },
+  {
+    "name": "Paused",
+    "width": 1440,
+    "scroll": 1425,
+    "active": "1",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Layout 390 slide 0",
+    "width": 390,
+    "scroll": 390,
+    "active": "0",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Layout 390 slide 1",
+    "width": 390,
+    "scroll": 390,
+    "active": "1",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Layout 390 slide 2",
+    "width": 390,
+    "scroll": 390,
+    "active": "2",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Swipe wrap",
+    "width": 390,
+    "scroll": 390,
+    "active": "0",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Layout 768 slide 0",
+    "width": 768,
+    "scroll": 753,
+    "active": "0",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Layout 768 slide 1",
+    "width": 768,
+    "scroll": 753,
+    "active": "1",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Layout 768 slide 2",
+    "width": 768,
+    "scroll": 753,
+    "active": "2",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Layout 1024 slide 0",
+    "width": 1024,
+    "scroll": 1009,
+    "active": "0",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Layout 1024 slide 1",
+    "width": 1024,
+    "scroll": 1009,
+    "active": "1",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Layout 1024 slide 2",
+    "width": 1024,
+    "scroll": 1009,
+    "active": "2",
+    "visible": 1,
+    "images": 1,
+    "missing": 0,
+    "autoplay": "false"
+  },
+  {
+    "name": "Reduced motion",
+    "matches": true,
+    "autoplay": "false"
+  }
+]

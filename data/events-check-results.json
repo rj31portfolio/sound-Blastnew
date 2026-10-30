@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Events 1440",
+    "width": 1440,
+    "scroll": 1425,
+    "title": "Events | Sound Blast — Meet. Explore. Experience.",
+    "missing": 0,
+    "nav": [
+      "Home",
+      "Categories",
+      "About Us",
+      "Events",
+      "Contact"
+    ],
+    "dates": " ANNOUNCEMENTS COMING SOON"
+  },
+  {
+    "name": "Events 390",
+    "width": 390,
+    "scroll": 390,
+    "title": "Events | Sound Blast — Meet. Explore. Experience.",
+    "missing": 0,
+    "nav": [
+      "Home",
+      "Categories",
+      "About Us",
+      "Events",
+      "Contact"
+    ],
+    "dates": " ANNOUNCEMENTS COMING SOON"
+  },
+  {
+    "name": "Events 768",
+    "width": 768,
+    "scroll": 753,
+    "title": "Events | Sound Blast — Meet. Explore. Experience.",
+    "missing": 0,
+    "nav": [
+      "Home",
+      "Categories",
+      "About Us",
+      "Events",
+      "Contact"
+    ],
+    "dates": " ANNOUNCEMENTS COMING SOON"
+  },
+  {
+    "name": "Legacy route",
+    "status": 301,
+    "location": "/events.php"
+  },
+  {
+    "name": "Sitemap routes",
+    "count": 124,
+    "errors": []
+  }
+]

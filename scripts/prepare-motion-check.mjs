@@ -1,0 +1,3 @@
+import fs from 'node:fs';const old=fs.readFileSync('scripts/browser-refresh-check.mjs','utf8');let prefix=old.slice(0,old.indexOf("await call('Page.enable')"));fs.writeFileSync('scripts/check-carousel-motion.mjs',prefix+`
+await call('Page.enable');await call('Runtime.enable');await call('Page.navigate',{url:'http://127.0.0.1:8088/'});await pause(600);await call('Emulation.setEmulatedMedia',{features:[{name:'prefers-reduced-motion',value:'reduce'}]});await pause(1000);console.log(JSON.stringify(await evaluate(\`({matches:matchMedia('(prefers-reduced-motion: reduce)').matches,sliders:[...document.querySelectorAll('[data-carousel]')].map(c=>c.dataset.autoplay)})\`)));await call('Page.close');ws.close();
+`);

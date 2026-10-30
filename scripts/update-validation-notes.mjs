@@ -1,0 +1,2 @@
+import fs from 'node:fs';
+let f='README.md',t=fs.readFileSync(f,'utf8').replace('129 PHP files pass syntax validation.','PHP templates and entry pages pass syntax validation.').replace('No horizontal overflow at 390px.','No horizontal overflow at 390px, 768px or 1024px.\n- All 97 product PNG files pass alpha-content and transparent-corner checks (data/image-validation.json).\n- India map region selection, keyboard interaction and enquiry message preparation verified.');fs.writeFileSync(f,t);

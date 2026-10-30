@@ -1,0 +1,1 @@
+import fs from 'node:fs';let f='scripts/extract-products.php',t=fs.readFileSync(f,'utf8');t=t.replace("$tol=($pr<45&&$pg<45&&$pb<45)?13:26;","$tol=($pr<100&&$pg<100&&$pb<100)?10:26;");t=t.replace("if($p['page']===30)$palette=[[0,0,0]];","if($p['page']===30)$palette=[[0,0,0]];\n if($p['page']===31)$palette=[[248,248,248],[255,188,0],[51,49,49]];");fs.writeFileSync(f,t);
